@@ -51,13 +51,13 @@ class Prodotto {
 
 };
 
-$Magazzino=new Magazzino();
+$Magazzino = new Magazzino();
 
 $Magazzino -> name = "Amazon";
 
 $Magazzino -> location = "Milano";
 
-$Prodotto1=new Prodotto();
+$Prodotto1 = new Prodotto();
 $Prodotto1-> name = "Cellulari";
 $Prodotto1-> peso = 200;
 $Prodotto1-> prezzo = 300;
