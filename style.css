@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  width: 100%;
+  height: 100vh;
+  background-color: aquamarine;
+  display: flex;
+  justify-content: space-between;
+}
+
+.hotel {
+  border: 1px solid blue;
+  padding: 1%;
+  line-height: 1.2;
+  vertical-align: middle;
+  width: 18%;
+  height: 25%;
+  font-size: 20px;
+  color: blue;
+}
